@@ -13,4 +13,4 @@ The wallpaper will be automatically generated and added to your PC background!
 ## Features
 - Quick command line access
 - straight forward prompt to image generation
-- Automatically updates PC background
+- Automatically updates PC background to newly generated wallpaper!
